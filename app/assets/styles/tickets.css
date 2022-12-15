@@ -1,0 +1,23 @@
+.ticket-block {
+  display: block;
+  opacity: 0.8;
+  margin: 15px;
+}
+
+.ticket-info {
+  margin: 10px 0 20px;
+}
+
+.info {
+  color: #09c;
+  opacity: 0.7;
+  font-size: 1.25em;
+  margin: 10px 0 20px;
+}
+
+.user_item {
+  opacity: 0.8;
+  margin: 15px;
+}
+
+/*# sourceMappingURL=tickets.css.map */

@@ -1,0 +1,11 @@
+#accept-order-button {
+  max-width: 260px;
+  padding: 10px;
+  height: 30px;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #e39f67;
+}
+
+/*# sourceMappingURL=buttons.css.map */
